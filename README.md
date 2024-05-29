@@ -63,7 +63,7 @@ To clean up files older than a specific time (e.g., 10 hours), run the script wi
 Default Behavior (Clean Up Files Older Than 40 Hours)If no argument is provided, 
 the script will clean up files older than the default threshold of 40 hours (144000 seconds).
 
-Log File:
+#### Log File:
 The script will create a log file named deleted-files-<date>-<month>-<year>.log containing information about deleted files.
 
 
