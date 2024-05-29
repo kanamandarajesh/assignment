@@ -64,6 +64,10 @@ Default Behavior (Clean Up Files Older Than 40 Hours)If no argument is provided,
 the script will clean up files older than the default threshold of 40 hours (144000 seconds).
 
 #### Log File:
+After running the script, you can verify the log file by listing the files in the current directory:
+
+#### ls -l
+
 The script will create a log file named deleted-files-<date>-<month>-<year>.log containing information about deleted files.
 
 
